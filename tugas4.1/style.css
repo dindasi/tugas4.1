@@ -1,0 +1,54 @@
+.menu{
+    display: inline;
+    float:right;
+    margin-right:50px;
+    font-size: 17px;
+    text-align:center;
+}
+.profile{
+    display: inline;
+    float:left;
+    margin-left:20px;
+    font-size : 17px;
+}
+.foto{
+    display: inline;
+    float : left;
+    margin-left :50px;
+    margin-top:20px;
+}
+.size{
+    font-size: 17px;
+}
+#posisi{
+    float: left;
+    margin-left:50px;
+}
+.fieldset{
+    float: left;
+    margin-left:10px;
+}
+#atur{
+    float: right;
+    margin-right: 10px;
+}
+#atur2{
+    float: right;
+    margin-right: 10px;
+}
+#atur3{
+    float: right;
+    margin-right: 10px;
+}
+#frame{
+    width : 400;
+    height : 195;
+}
+#frame1{
+    width : 400;
+    height : 195;
+}
+#frame2{
+    width : 400;
+    height : 195;
+}
